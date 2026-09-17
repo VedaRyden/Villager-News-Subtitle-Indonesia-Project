@@ -1,0 +1,35 @@
+{
+    "format_version": 3,
+    "header": {
+        "description": "By Oreville Studios & Element Animation \nIndonesian Language Translator By @VEDARAIDEN & GeminiAI",
+        "name": "Villager News 1.0 Subtitle Indonesia",
+        "uuid": "c67422e9-8a2b-4585-9988-13fa43e2b34b",
+        "version": "1.0.2",
+        "min_engine_version": "1.26.10"
+    },
+    "modules": [
+        {
+            "description": "Original Creator By Oreville Studios & Element Animation",
+            "type": "resources",
+            "uuid": "bac6ffa8-2901-49cd-b9ab-0d7ffcebad4f",
+            "version": "1.0.8"
+        }
+    ],
+    "capabilities": [
+        "pbr"
+    ],
+    "settings": [
+    {
+        "type": "label",
+        "text": "Original Creator By Oreville Studios & Element Animation"
+    },
+    {
+        "type": "label",
+        "text": "Indonesian Language Translator By @VEDARAIDEN & GeminiAI"
+    },
+    {
+        "type": "label",
+        "text": "Atur dulu Game Minecraftnya ke bahasa indonesia agar subtitle indonesianya diterapkan."
+    }
+ ]
+}
