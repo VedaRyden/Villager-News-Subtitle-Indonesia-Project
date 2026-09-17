@@ -1,10 +1,10 @@
 {
     "format_version": 3,
     "header": {
-        "description": "By Oreville Studios & Element Animation \nIndonesian Language Translator By @VEDARAIDEN & GeminiAI",
-        "name": "Villager News 1.0 Subtitle Indonesia",
+        "description": "By Oreville Studios & Element Animation \nIndonesian Language Translator By @VEDARAIDEN & GeminiAI\nDonate https://trakteer.id/veda_raiden",
+        "name": "Villager News 1.0 Subtitle Indonesia v1.2",
         "uuid": "c67422e9-8a2b-4585-9988-13fa43e2b34b",
-        "version": "1.0.2",
+        "version": "1.1.2",
         "min_engine_version": "1.26.10"
     },
     "modules": [
@@ -30,6 +30,10 @@
     {
         "type": "label",
         "text": "Atur dulu Game Minecraftnya ke bahasa indonesia agar subtitle indonesianya diterapkan."
+    },
+    {
+        "type": "label",
+        "text": "Donasi https://trakteer.id/veda_raiden"
     }
  ]
 }
