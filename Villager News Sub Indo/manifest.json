@@ -29,11 +29,15 @@
     },
     {
         "type": "label",
-        "text": "Atur dulu Game Minecraftnya ke bahasa indonesia agar subtitle indonesianya diterapkan."
+        "text": "Sekarang tersedia bahasa Jawa\n Sunda, Palembang, Malay, Jawa, Betawi KBI, dan Karo masih WIP"
     },
     {
         "type": "label",
-        "text": "Donasi https://trakteer.id/veda_raiden"
+        "text": "Donasi agar subtitle pack ini bisa terus update : https://trakteer.id/veda_raiden"
+    },
+    {
+        "type": "label",
+        "text": "Anda bisa memberikan feedback untuk menambahkan bahasa daerah yang lainnya di Channel YT @VedaRaiden"
     }
  ]
 }
