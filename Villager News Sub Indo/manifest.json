@@ -18,6 +18,50 @@
     "capabilities": [
         "pbr"
     ],
+     "subpacks": [
+    {
+   "folder_name": "indo",
+   "memory_performance_tier":1,
+   "name": "Subtitle indo(100% selesai)"
+  },
+  {
+   "folder_name": "sunda",
+   "memory_performance_tier":0,
+   "name": "Subtitle Sunda"
+  },
+  {
+   "folder_name": "jawa",
+   "memory_performance_tier":0,
+   "name": "Subtitle Jawa (80% selesai)"
+  },
+  {
+   "folder_name": "palembang",
+   "memory_performance_tier":0,
+   "name": "Subtitle Palembang"
+  },
+  {
+     "folder_name": "betawi",
+     "memory_performance_tier":0,
+     "name": "Subtitle Betawi KBI"
+    },
+    {
+     "folder_name": "karo",
+     "memory_performance_tier":0,
+     "name": "Subtitle Karo"
+    },
+    {
+     "folder_name": "malay",
+     "memory_performance_tier":0,
+     "name": "Subtitle Malay"
+    },
+    {
+     "folder_name": "KKB",
+     "memory_performance_tier":0,
+     "name": "Subtitle KKB(40% selesai)"
+    }
+
+
+ ],
     "settings": [
     {
         "type": "label",
@@ -29,7 +73,7 @@
     },
     {
         "type": "label",
-        "text": "Sekarang tersedia bahasa Jawa\n Sunda, Palembang, Malay, Jawa, Betawi KBI, dan Karo masih WIP"
+        "text": "Sekarang tersedia bahasa:\n-Jawa(80% selesai)\n-Sunda\n-Palembang\n-Malay\n-Jawa(80% selesai)\n-Betawi\n-KKB(40% selesai)\ndan Karo tetapi masih WIP"
     },
     {
         "type": "label",
