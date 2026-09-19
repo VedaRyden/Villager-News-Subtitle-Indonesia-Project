@@ -1,7 +1,7 @@
 {
     "format_version": 3,
     "header": {
-        "description": "By Oreville Studios & Element Animation \nIndonesian Language Translator By @VEDARAIDEN & GeminiAI\nDonate https://trakteer.id/veda_raiden",
+        "description": "By Oreville Studios & Element Animation\nIndonesian Language Translator By @VEDARAIDEN & GeminiAI\nDonate https://trakteer.id/veda_raiden",
         "name": "Villager News 1.0 Subtitle Indonesia v1.2",
         "uuid": "c67422e9-8a2b-4585-9988-13fa43e2b34b",
         "version": "1.1.2",
@@ -22,7 +22,7 @@
     {
    "folder_name": "indo",
    "memory_performance_tier":1,
-   "name": "Subtitle indo(100% selesai)"
+   "name": "Subtitle Indonesia(100% selesai)"
   },
   {
    "folder_name": "sunda",
@@ -37,7 +37,7 @@
   {
    "folder_name": "palembang",
    "memory_performance_tier":0,
-   "name": "Subtitle Palembang"
+   "name": "Subtitle Palembang (40% selesai)"
   },
   {
      "folder_name": "betawi",
@@ -65,19 +65,15 @@
     "settings": [
     {
         "type": "label",
-        "text": "Original Creator By Oreville Studios & Element Animation"
+        "text": "Original Creator By Oreville Studios & Element Animation\nIndonesian Language Translator By @VEDARAIDEN & GeminiAI"
     },
     {
         "type": "label",
-        "text": "Indonesian Language Translator By @VEDARAIDEN & GeminiAI"
+        "text": "Sekarang tersedia bahasa:\n-Jawa(80% selesai)\n-Sunda\n-Palembang(40% selesai)\n-Malay\n-Jawa(80% selesai)\n-Betawi\n-KKB(40% selesai)\ndan Karo tetapi masih WIP"
     },
     {
         "type": "label",
-        "text": "Sekarang tersedia bahasa:\n-Jawa(80% selesai)\n-Sunda\n-Palembang\n-Malay\n-Jawa(80% selesai)\n-Betawi\n-KKB(40% selesai)\ndan Karo tetapi masih WIP"
-    },
-    {
-        "type": "label",
-        "text": "Donasi agar subtitle pack ini bisa terus update : https://trakteer.id/veda_raiden"
+        "text": "Donasi agar subtitle pack ini bisa terus update : https://trakteer.id/veda_raiden\nJoin Discord: https://discord.com/invite/U2SUvJKQkk"
     },
     {
         "type": "label",
