@@ -2,9 +2,9 @@
     "format_version": 3,
     "header": {
         "description": "By Oreville Studios & Element Animation\nIndonesian Language Translator By @VEDARAIDEN & GeminiAI\nDonate https://trakteer.id/veda_raiden",
-        "name": "Villager News 1.0 Subtitle Indonesia v1.2",
+        "name": "Villager News 1.0 Subtitle Indonesia v1.3",
         "uuid": "c67422e9-8a2b-4585-9988-13fa43e2b34b",
-        "version": "1.1.2",
+        "version": "1.1.4",
         "min_engine_version": "1.26.10"
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "Original Creator By Oreville Studios & Element Animation",
             "type": "resources",
             "uuid": "bac6ffa8-2901-49cd-b9ab-0d7ffcebad4f",
-            "version": "1.0.8"
+            "version": "1.1.0"
         }
     ],
     "capabilities": [
@@ -37,7 +37,7 @@
   {
    "folder_name": "palembang",
    "memory_performance_tier":0,
-   "name": "Subtitle Palembang (40% selesai)"
+   "name": "Subtitle Palembang (100% selesai)"
   },
   {
      "folder_name": "betawi",
@@ -69,7 +69,7 @@
     },
     {
         "type": "label",
-        "text": "Sekarang tersedia bahasa:\n-Jawa(80% selesai)\n-Sunda\n-Palembang(40% selesai)\n-Malay\n-Jawa(80% selesai)\n-Betawi\n-KKB(40% selesai)\ndan Karo tetapi masih WIP"
+        "text": "Sekarang tersedia bahasa:\n-Jawa(80% selesai)\n-Sunda\n-Palembang(100% selesai)\n-Malay\n-Betawi\n-KKB(40% selesai)\ndan Karo tetapi masih WIP"
     },
     {
         "type": "label",
